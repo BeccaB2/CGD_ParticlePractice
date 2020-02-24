@@ -14469,7 +14469,7 @@ GameObject:
   m_Component:
   - component: {fileID: 774944723}
   m_Layer: 0
-  m_Name: AlternateEffectRed
+  m_Name: Marshall (Red)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24124,7 +24124,7 @@ ParticleSystem:
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -28778,7 +28778,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1141222963}
   m_Layer: 0
-  m_Name: AlternateEffectGreen
+  m_Name: Medic (Green)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33655,7 +33655,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1280967165}
   m_Layer: 0
-  m_Name: AlternateEffectBlue
+  m_Name: Phone (Blue)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33687,7 +33687,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1356165915}
   m_Layer: 0
-  m_Name: AlternateEffectYellow
+  m_Name: Rally (Yellow)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
